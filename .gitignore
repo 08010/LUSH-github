@@ -1,0 +1,16 @@
+# Visual Studio 缓存与用户设置
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 编译产物
+bin/
+obj/
+Debug/
+Release/
+
+# 系统文件
+.DS_Store
+Thumbs.db
