@@ -1,4 +1,4 @@
-# hello-github
+﻿# hello-github
 
 我的第一个 GitHub 仓库，用来跑通 clone → 修改 → 提交 → 推送 的完整流程。
 
@@ -22,3 +22,4 @@
 ## 记录
 
 - 2026-10-23 创建仓库，完成首次本地提交与推送
+- 这是我用 Visual Studio 提交的
