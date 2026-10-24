@@ -1,4 +1,4 @@
-﻿# hello-github
+﻿# LUSH-github
 
 我的第一个 GitHub 仓库，用来跑通 clone → 修改 → 提交 → 推送 的完整流程。
 
